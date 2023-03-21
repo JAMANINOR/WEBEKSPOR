@@ -242,6 +242,18 @@ License URI:
     margin-right: 0px;
 }
 
+.csItem p {
+  color: #fff;
+}
+.csItem h3 {
+  font-size: 15px;
+	color: #FFFFFF;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+
+
 .mainmenu > ul > li > a{
     font-size: 16px;
     color: #7e889b;
@@ -1494,7 +1506,8 @@ License URI:
     text-align: center;
 }
 .csItem img{
-    width: auto !important;
+	margin: 500 500px;
+    width: 20 !important;
     max-width: 100% !important;
     display: inline-block !important;
     height: auto;
