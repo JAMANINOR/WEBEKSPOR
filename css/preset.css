@@ -387,3 +387,8 @@ input:focus, textarea:focus, select:focus, button:focus{
     font-style: normal;
     margin: 0 8px 0 7px;
 }
+.maps_area{
+    margin-right: 20px;
+    margin-left: 20px;
+	
+}
