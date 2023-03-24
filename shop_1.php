@@ -1,7 +1,6 @@
 <!DOCTYPE HTML>
 <html lang="en">
 
-<!-- Mirrored from themewar.com/html/industing/demo/shop_1.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 18 Feb 2023 03:11:33 GMT -->
 
 <head>
   <meta charset="UTF-8">
@@ -35,9 +34,9 @@
   <section class="page_banner">
     <div class="container">
       <div class="col-xl-12 text-center">
-        <h2>Our Store 01</h2>
+        <h2>Products</h2>
         <div class="breadcrumbs">
-          <a href="index.html">Home</a><i>|</i><span>shop</span>
+          <a href="index.php">Home</a><i>|</i><span>shop</span>
         </div>
       </div>
     </div>
@@ -82,13 +81,13 @@
             </div>
             <div class="product_dec">
               <div class="product_decIn">
-                <h2 class="productTitle"><a href="shop_details.html">2019 New Release Premium Chalk Reel</a></h2>
+                <h2 class="productTitle"><a href="shop_details.php">2019 New Release Premium Chalk Reel</a></h2>
                 <div class="product_price">
                   <span>$45.00</span>
                   <div class="ratings"></div>
                 </div>
                 <div class="product_btn">
-                  <a class="popUp" href="shop_details.html"><i class="far fa-search"></i>View Details</a>
+                  <a class="popUp" href="shop_details.php"><i class="far fa-search"></i>View Details</a>
                   <a href="#"><i class="far fa-shopping-cart"></i>Add to cart</a>
                 </div>
               </div>
@@ -102,12 +101,12 @@
             </div>
             <div class="product_dec">
               <div class="product_decIn">
-                <h2 class="productTitle"><a href="shop_details.html">DeWalt Explore 90 Degree Angle Clamp </a></h2>
+                <h2 class="productTitle"><a href="shop_details.php">DeWalt Explore 90 Degree Angle Clamp </a></h2>
                 <div class="product_price">
                   <span>$79.00</span>
                 </div>
                 <div class="product_btn">
-                  <a class="popUp" href="shop_details.html"><i class="far fa-search"></i>View Details</a>
+                  <a class="popUp" href="shop_details.php"><i class="far fa-search"></i>View Details</a>
                   <a href="#"><i class="far fa-shopping-cart"></i>Add to cart</a>
                 </div>
               </div>
@@ -124,13 +123,13 @@
             </div>
             <div class="product_dec">
               <div class="product_decIn">
-                <h2 class="productTitle"><a href="shop_details.html">Business Compact Saw (Tool Only)</a></h2>
+                <h2 class="productTitle"><a href="shop_details.php">Business Compact Saw (Tool Only)</a></h2>
                 <div class="product_price">
                   <del>$139.00</del>
                   <span>$102.00</span>
                 </div>
                 <div class="product_btn">
-                  <a class="popUp" href="shop_details.html"><i class="far fa-search"></i>View Details</a>
+                  <a class="popUp" href="shop_details.php"><i class="far fa-search"></i>View Details</a>
                   <a href="#"><i class="far fa-shopping-cart"></i>Add to cart</a>
                 </div>
               </div>
@@ -144,12 +143,12 @@
             </div>
             <div class="product_dec">
               <div class="product_decIn">
-                <h2 class="productTitle"><a href="shop_details.html">Lithium Ion XR Business 16 Chainsaw</a></h2>
+                <h2 class="productTitle"><a href="shop_details.php">Lithium Ion XR Business 16 Chainsaw</a></h2>
                 <div class="product_price">
                   <span>$183.00</span>
                 </div>
                 <div class="product_btn">
-                  <a class="popUp" href="shop_details.html"><i class="far fa-search"></i>View Details</a>
+                  <a class="popUp" href="shop_details.php"><i class="far fa-search"></i>View Details</a>
                   <a href="#"><i class="far fa-shopping-cart"></i>Add to cart</a>
                 </div>
               </div>
@@ -166,12 +165,12 @@
             </div>
             <div class="product_dec">
               <div class="product_decIn">
-                <h2 class="productTitle"><a href="shop_details.html">Tool Connect Hammerdrill (Tool Only)</a></h2>
+                <h2 class="productTitle"><a href="shop_details.php">Tool Connect Hammerdrill (Tool Only)</a></h2>
                 <div class="product_price">
                   <span>$183.00</span>
                 </div>
                 <div class="product_btn">
-                  <a class="popUp" href="shop_details.html"><i class="far fa-search"></i>View Details</a>
+                  <a class="popUp" href="shop_details.php"><i class="far fa-search"></i>View Details</a>
                   <a href="#"><i class="far fa-shopping-cart"></i>Add to cart</a>
                 </div>
               </div>
@@ -185,12 +184,12 @@
             </div>
             <div class="product_dec">
               <div class="product_decIn">
-                <h2 class="productTitle"><a href="shop_details.html">2019 Heavy - Duty Bar Clamp (Tool Only)</a></h2>
+                <h2 class="productTitle"><a href="shop_details.php">2019 Heavy - Duty Bar Clamp (Tool Only)</a></h2>
                 <div class="product_price">
                   <span>$183.00</span>
                 </div>
                 <div class="product_btn">
-                  <a class="popUp" href="shop_details.html"><i class="far fa-search"></i>View Details</a>
+                  <a class="popUp" href="shop_details.php"><i class="far fa-search"></i>View Details</a>
                   <a href="#"><i class="far fa-shopping-cart"></i>Add to cart</a>
                 </div>
               </div>
@@ -207,12 +206,12 @@
             </div>
             <div class="product_dec">
               <div class="product_decIn">
-                <h2 class="productTitle"><a href="shop_details.html">2019 Model FATMAX® Cable Tie Tension</a></h2>
+                <h2 class="productTitle"><a href="shop_details.php">2019 Model FATMAX® Cable Tie Tension</a></h2>
                 <div class="product_price">
                   <span>$183.00</span>
                 </div>
                 <div class="product_btn">
-                  <a class="popUp" href="shop_details.html"><i class="far fa-search"></i>View Details</a>
+                  <a class="popUp" href="shop_details.php"><i class="far fa-search"></i>View Details</a>
                   <a href="#"><i class="far fa-shopping-cart"></i>Add to cart</a>
                 </div>
               </div>
@@ -226,12 +225,12 @@
             </div>
             <div class="product_dec">
               <div class="product_decIn">
-                <h2 class="productTitle"><a href="shop_details.html">Folding Jab Saw Make Task Simple</a></h2>
+                <h2 class="productTitle"><a href="shop_details.php">Folding Jab Saw Make Task Simple</a></h2>
                 <div class="product_price">
                   <span>$183.00</span>
                 </div>
                 <div class="product_btn">
-                  <a class="popUp" href="shop_details.html"><i class="far fa-search"></i>View Details</a>
+                  <a class="popUp" href="shop_details.php"><i class="far fa-search"></i>View Details</a>
                   <a href="#"><i class="far fa-shopping-cart"></i>Add to cart</a>
                 </div>
               </div>
@@ -245,12 +244,12 @@
             </div>
             <div class="product_dec">
               <div class="product_decIn">
-                <h2 class="productTitle"><a href="shop_details.html">Heavy Duty Electric 5-IN-1 Multi Tracker</a></h2>
+                <h2 class="productTitle"><a href="shop_details.php">Heavy Duty Electric 5-IN-1 Multi Tracker</a></h2>
                 <div class="product_price">
                   <span>$183.00</span>
                 </div>
                 <div class="product_btn">
-                  <a class="popUp" href="shop_details.html"><i class="far fa-search"></i>View Details</a>
+                  <a class="popUp" href="shop_details.php"><i class="far fa-search"></i>View Details</a>
                   <a href="#"><i class="far fa-shopping-cart"></i>Add to cart</a>
                 </div>
               </div>
@@ -264,12 +263,12 @@
             </div>
             <div class="product_dec">
               <div class="product_decIn">
-                <h2 class="productTitle"><a href="shop_details.html">Monster Mechanics Tool Set All In One</a></h2>
+                <h2 class="productTitle"><a href="shop_details.php">Monster Mechanics Tool Set All In One</a></h2>
                 <div class="product_price">
                   <span>$183.00</span>
                 </div>
                 <div class="product_btn">
-                  <a class="popUp" href="shop_details.html"><i class="far fa-search"></i>View Details</a>
+                  <a class="popUp" href="shop_details.php"><i class="far fa-search"></i>View Details</a>
                   <a href="#"><i class="far fa-shopping-cart"></i>Add to cart</a>
                 </div>
               </div>
@@ -283,13 +282,13 @@
             </div>
             <div class="product_dec">
               <div class="product_decIn">
-                <h2 class="productTitle"><a href="shop_details.html">2019 Model Cordless Tripod Light (Kit Only)</a>
+                <h2 class="productTitle"><a href="shop_details.php">2019 Model Cordless Tripod Light (Kit Only)</a>
                 </h2>
                 <div class="product_price">
                   <span>$183.00</span>
                 </div>
                 <div class="product_btn">
-                  <a class="popUp" href="shop_details.html"><i class="far fa-search"></i>View Details</a>
+                  <a class="popUp" href="shop_details.php"><i class="far fa-search"></i>View Details</a>
                   <a href="#"><i class="far fa-shopping-cart"></i>Add to cart</a>
                 </div>
               </div>
@@ -306,12 +305,12 @@
             </div>
             <div class="product_dec">
               <div class="product_decIn">
-                <h2 class="productTitle"><a href="shop_details.html">2019 Model Fiber Glass Drilling Hammer</a></h2>
+                <h2 class="productTitle"><a href="shop_details.php">2019 Model Fiber Glass Drilling Hammer</a></h2>
                 <div class="product_price">
                   <span>$183.00</span>
                 </div>
                 <div class="product_btn">
-                  <a class="popUp" href="shop_details.html"><i class="far fa-search"></i>View Details</a>
+                  <a class="popUp" href="shop_details.php"><i class="far fa-search"></i>View Details</a>
                   <a href="#"><i class="far fa-shopping-cart"></i>Add to cart</a>
                 </div>
               </div>
@@ -339,7 +338,7 @@
         <div class="col-xl-3 col-md-6 col-lg-3 noPaddingRight">
           <aside class="widget">
             <div class="about_widget">
-              <a href="index.html"><img src="images/logo_2.png" alt="" /></a>
+              <a href="index.php"><img src="images/logo_2.png" alt="" /></a>
               <p>
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
                 dolore magna aliqua.
@@ -451,7 +450,5 @@
   <script src="js/theme.js"></script>
 
 </body>
-
-<!-- Mirrored from themewar.com/html/industing/demo/shop_1.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 18 Feb 2023 03:11:44 GMT -->
 
 </html>

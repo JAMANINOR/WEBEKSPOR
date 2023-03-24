@@ -45,16 +45,10 @@
           </div>
           <nav class="mainmenu">
             <ul>
-              <li>
-                <a href="index.php">Home</a>
-              </li>
+              <li><a href="index.php">Home</a></li>
               <li><a href="aboutus.php">About</a></li>
-              <li class=" menu-item-has-children">
-                <a href="shop_1.php">Products</a>
-              </li>
-              <li class=" menu-item-has-children">
-                <a href="news_list_1.php">Gallery</a>
-              </li>
+              <li><a href="shop_1.php">Products</a></li>
+              <li><a href="news_list_1.php">Gallery</a></li>
               <li><a href="contact_us_1.php">Contact</a></li>
             </ul>
           </nav>
@@ -77,7 +71,7 @@
       <div class="row">
         <div class="col-lg-8 text-left">
           <div class="popup_logos">
-            <a href="index.html"><img src="images/LOGO PERUSAHAAN 1.png.png" alt=""></a>
+            <a href="index.php"><img src="images/LOGO PERUSAHAAN 1.png.png" alt=""></a>
           </div>
         </div>
         <div class="col-lg-4 text-right">
@@ -89,37 +83,11 @@
           <div class="popup-inner">
             <div class="dl-menu__wrap dl-menuwrapper">
               <ul class="dl-menu dl-menuopen">
-                <li>
-                  <a href="#">Home</a>
-                  <ul class="dl-submenu">
-                  </ul>
-                </li>
-                <li><a href="aboutus.html">About</a></li>
-				 <li class="menu-item-has-children">
-                  <a href="shop_1.html">Products</a>
-                <li class="menu-item-has-children">
-                  <a href="javascript:void(0);">Gallery</a>
-                  <ul class="dl-submenu">
-                    <li class="menu-item-has-children">
-                      <a href="javascript:void(0);">News Lists</a>
-                      <ul class="dl-submenu">
-                        <li><a href="news_list_1.html">News List 01</a></li>
-                        <li><a href="news_list_2.html">News List 02</a></li>
-                      </ul>
-                    </li>
-                    <li class="menu-item-has-children">
-                      <a href="javascript:void(0);">News Details</a>
-                      <ul class="dl-submenu">
-                        <li><a href="news_details_1.html">Details 01</a></li>
-                        <li><a href="news_details_2.html">Details 02</a></li>
-                        <li><a href="news_details_3.html">Details 03</a></li>
-                      </ul>
-                    </li>
-                  </ul>
-                </li>
-                <li>
-                  <a href="contact_us_1.html">Contact</a>
-                </li>
+                <li><a href="index.php">Home</a></li>
+                <li><a href="aboutus.php">About</a></li>
+			        	 <li><a href="shop_1.php">Products</a></li>
+                <li><a href="news_list_1.php">Gallery</a></li>
+                <li><a href="contact_us_1.php">Contact</a></li>
               </ul>
             </div>
           </div>
