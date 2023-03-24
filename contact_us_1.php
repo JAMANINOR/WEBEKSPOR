@@ -43,7 +43,7 @@
       <div class="row">
         <div class="col-xl-4 col-lg-4 col-md-3 noPadding">
           <div class="logo text-left">
-            <a href="index.html">
+            <a href="index.php">
               <img src="images/logo.png" alt="" />
             </a>
           </div>
