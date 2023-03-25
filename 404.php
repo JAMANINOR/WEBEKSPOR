@@ -63,15 +63,15 @@
             <div class="container">
                 <div class="row">
                     <div class="col-xl-7 col-md-7">
-                        <div class="fof_img tw-stretch-element-inside-column text-right">
-                            <img src="images/404.png" alt="" />
+                        <div class="fof_img tw-stretch-element-inside-column text-right m-1">
+                            <img src="images/404.svg" alt="" />
                         </div>
                     </div>
                     <div class="col-xl-5 col-md-5">
                         <div class="fof_contents">
                             <h1>404</h1>
                             <h2>Don't be fret, You near from us.</h2>
-                            <a href="index.html" class="ind_btn id_gray"><span>Go Home</span></a>
+                            <a href="index.php" class="ind_btn id_gray"><span>Go Home</span></a>
                         </div>
                     </div>
                 </div>
