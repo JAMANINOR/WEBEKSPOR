@@ -1,4 +1,13 @@
-  <section class="topbar">
+  <div class="preloader text-center">
+    <div class="la-ball-scale-multiple la-2x">
+      <div></div>
+      <div></div>
+      <div></div>
+    </div>
+  </div>
+
+
+<section class="topbar">
     <div class="header-container">
       <div class="row">
         <div class="col-xl-4 col-lg-4 col-md-3 noPadding">
