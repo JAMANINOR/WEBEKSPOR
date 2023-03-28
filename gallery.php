@@ -25,7 +25,7 @@
   <link rel="stylesheet" type="text/css" href="css/presets/color1.css" id="colorChange" />
 
 
-  <link rel="icon" type="image/png" href="images/favicon.png">
+  <link rel="icon" type="image/png" href="images/icon perushaan.png">
 </head>
 
 <body>
