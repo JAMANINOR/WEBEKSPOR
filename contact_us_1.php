@@ -50,7 +50,7 @@
             <div class="ib5_inner">
               <h3>Office Location</h3>
               <p>
-                475/W 13th Street, Cooper <br />New York, United States
+                70673, banjar, kalimantan selatan, indonesia
               </p>
               <a href="#">Find Us On Map</a>
             </div>
@@ -74,7 +74,7 @@
             <div class="ib5_inner">
               <h3>Call Us</h3>
               <p>
-                +909 797 6896 <br />+(786) 7876 5675
+                +62 85754862997 <br />
               </p>
               <a href="#">Call Now</a>
             </div>
@@ -87,9 +87,9 @@
               <h3>Email Address</h3>
               <p>
                 <a href="https://themewar.com/cdn-cgi/l/email-protection" class="__cf_email__"
-                  data-cfemail="afc6c1c9c0efd8cacdc2cec6c381ccc0c2">[email&#160;protected]</a> <br /><a
+                  data-cfemail="afc6c1c9c0efd8cacdc2cec6c381ccc0c2">janinternationalekspor@gmail.com</a> <br /><a
                   href="https://themewar.com/cdn-cgi/l/email-protection" class="__cf_email__"
-                  data-cfemail="eb82858d84ab8e938a869b878ec59c8e89c5888486">[email&#160;protected]</a>
+                  data-cfemail="eb82858d84ab8e938a869b878ec59c8e89c5888486"></a>
               </p>
               <a href="#">Mail Us</a>
             </div>
@@ -162,7 +162,7 @@
         <div class="col-xl-12 noPadding">
           <div class="gmap">
             <iframe id="gmap_canvas"
-              src="https://maps.google.com/maps?q=new%20yourk&amp;t=&amp;z=13&amp;ie=UTF8&amp;iwloc=&amp;output=embed"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d509861.9132957895!2d114.77471203361601!3d-3.2765344039536464!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2de5d051257bc191%3A0x9bf850bc4af92e66!2sKabupaten%20Banjar%2C%20Kalimantan%20Selatan!5e0!3m2!1sid!2sid!4v1679982178406!5m2!1sid!2sid"
               frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
           </div>
         </div>

@@ -206,10 +206,10 @@
       <div class="row">
         <div class="col-xl-6 col-lg-6 noPaddingRight">
           <div class="video_01 mrm15 text-right">
-            <img src="images/home/1.jpg" alt="" />
+            <img src="images/home/utama.jpg" alt="" />
             <div class="vp">
-              <img src="images/home/2.jpg" alt="" />
-              <a class="videoPlayer" href="https://player.vimeo.com/video/78393586"><i class="fa fa-play"></i></a>
+              <img src="images/home/kedua.jpg">
+              <a class="videoPlayer" href="https://player.vimeo.com/video/78393586"><em class="fa fa-play"></em></a>
             </div>
           </div>
         </div>
@@ -243,20 +243,18 @@
     <div class="row">
       <div class="col-lg-4 col-md-6">
         <div class="icon_box_01 text-center">
-          <i class="bigger fas fa-tree"></i>
-          <i class="smaller fas fa-tree"></i>
-          <span></span>
+         <em><img src="images/jenis_kayu/maranti.png" class="img-fluid" alt="Responsive image" width="350"></em>
+           <span></span>
           <h3>Meranti Plywood</h3>
           <p>
-            Meranti plywood is a high-quality and durable wood product that is suitable for a wide range of construction and furniture needs. It is easy to work with and can be customized to fit specific requirements.
+            Meranti plywood is a high-quality and durable wood product that is suitable for a wide range of construction and furniture needs. It is easy to work with and can be customized to fit specific requirements.<br> <br>
           </p>
         </div>
       </div>
       <div class="col-lg-4 col-md-6">
         <div class="icon_box_01 text-center">
-          <i class="bigger fas fa-tree"></i>
-          <i class="smaller fas fa-tree"></i>
-          <span></span>
+          <em><img src="images/jenis_kayu/albasia.png" class="img-fluid" alt="Responsive image" width="350"></em>
+           <span></span>
           <h3>Albizia Plywood</h3>
           <p>
              Albizia plywood is a lightweight and affordable option for various applications, such as furniture, packaging, and construction. It is easy to work with and has a uniform texture and color, making it suitable for painting and staining.
@@ -265,8 +263,7 @@
       </div>
       <div class="col-lg-4 col-md-6">
         <div class="icon_box_01 text-center">
-          <i class="bigger fas fa-tree"></i>
-          <i class="smaller fas fa-tree"></i>
+          <i><img src="images/jenis_kayu/jati.png" class="img-fluid" alt="Responsive image" width="350"></i>
           <span></span>
           <h3>Teak Plywood</h3>
           <p>
