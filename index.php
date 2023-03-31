@@ -295,8 +295,11 @@
             <ul class="text-right clearfix shafful_filter">
               <li class="all" data-group="all"><i class="fal fa-bars"></i>All Product</li>
               <li data-group="plywood"><i class="fas fa-layer-group"></i>Plywood</li>
-              <li data-group="construction"><i class="icofont-cement-mix"></i>Coal</li>
-              <li data-group="chemicel"><i class="icofont-shrimp"></i>Shrimp</li>
+              <li data-group="icofont-cement-mix"><i class="fas fa-layer-group"></i>Platform</li>
+              <li data-group="Veneer"><i class="fas fa-layer-group"></i>Veneer</li>
+				<li data-group="Finger Joint Layer"><i class="fas fa-layer-group"></i>Finger Joint Layer</li>
+              <li data-group="Doorblank"><i class="fas fa-layer-group"></i>Doorblank</li>
+              <li data-group="Blockboard"><i class="fas fa-layer-group"></i>Blockboard</li>
             </ul>
           </div>
         </div>
@@ -709,7 +712,7 @@
                 <span><i class="fal fa-user"></i>By <a href="#">ADMIN</a></span>
               </div>
               <h3>
-                <a href="news_details_1.php">Plywood industry sees increase in demand and growth in 2023</a>
+                <a href="news_details.php">Plywood industry sees increase in demand and growth in 2023</a>
               </h3>
               <p>
                 According to recent reports, the plywood industry is experiencing a surge in demand and growth in 2023. This is attributed to the increase in construction and housing activities globally, particularly in emerging economies. The industry is also adopting sustainable practices to minimize its impact on the environment.
