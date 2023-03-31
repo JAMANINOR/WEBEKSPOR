@@ -138,6 +138,8 @@
             </div>
           </div>
         </div>
+		  
+		  
         <div class="col-xl-4 col-md-6 col-lg-4">
           <div class="single_product offerProduct">
             <div class="productImg">
@@ -198,6 +200,8 @@
             </div>
           </div>
         </div>
+		  
+		  
         <div class="col-xl-4 col-md-6 col-lg-4">
           <div class="single_product offerProduct">
             <div class="productImg">

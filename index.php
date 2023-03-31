@@ -686,13 +686,13 @@
   </section>
 	
 	
-  <section class="commonSection newsSection">
+<section class="commonSection newsSection">
     <div class="container">
       <div class="row">
         <div class="col-xl-12 text-center">
           <h6 class="sub_title">News</h6>
           <h2 class="sec_title with_bar">
-            <span>News Feeds?</span>
+            <span>News</span>
           </h2>
         </div>
       </div>
@@ -704,20 +704,15 @@
             </div>
             <div class="bi_details">
               <div class="bi_meta">
-                <span><i class="fal fa-calendar-alt"></i><a href="#">23rd March 2019</a></span>
-                <span><i class="fal fa-comments"></i><a href="#">43 Comments</a></span>
-                <span><i class="fal fa-user"></i>By <a href="#">Habibur Rahman</a></span>
+                <span><i class="fal fa-calendar-alt"></i><a href="#">31st March 2023</a></span>
+                <span><i class="fal fa-comments"></i><a href="#">0 Comments</a></span>
+                <span><i class="fal fa-user"></i>By <a href="#">ChatGPT</a></span>
               </div>
               <h3>
-                <a href="#">Utenim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea cure
-                  dolor.</a>
+                <a href="#">Plywood industry sees increase in demand and growth in 2023</a>
               </h3>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-                dolore
-                magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-                commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
-                dolore eu fugiat nulla pariatur.
+                According to recent reports, the plywood industry is experiencing a surge in demand and growth in 2023. This is attributed to the increase in construction and housing activities globally, particularly in emerging economies. The industry is also adopting sustainable practices to minimize its impact on the environment.
               </p>
               <a href="#" class="read_more">Read More</a>
             </div>
@@ -726,36 +721,43 @@
         <div class="col-xl-5 col-md-5">
           <div class="blogItem2">
             <div class="bi_meta">
-              <span><i class="fal fa-calendar-alt"></i><a href="#">23rd March 2019</a></span>
-              <span><i class="fal fa-comments"></i><a href="#">43 Comments</a></span>
+              <span><i class="fal fa-calendar-alt"></i><a href="#">31st March 2023</a></span>
+              <span><i class="fal fa-comments"></i><a href="#">0 Comments</a></span>
             </div>
             <h3>
               <a href="#">
-                Vivamus nec tellus non leo ornare scelerisque ut in neque
+                Plywood manufacturers focus on sustainable practices
               </a>
             </h3>
           </div>
           <div class="blogItem2">
             <div class="bi_meta">
-              <span><i class="fal fa-calendar-alt"></i><a href="#">23rd March 2019</a></span>
-              <span><i class="fal fa-comments"></i><a href="#">43 Comments</a></span>
+              <span><i class="fal fa-calendar-alt"></i><a href="#">31st March 2023</a></span>
+              <span><i class="fal fa-comments"></i><a href="#">0 Comments</a></span>
             </div>
             <h3>
               <a href="#">
-                Lorem ipsum dolor sit amet, conse elit, sed do eiusmod tempor.
+                How plywood is used in modern architecture and interior design
               </a>
             </h3>
           </div>
           <div class="blogItem2">
             <div class="bi_meta">
-              <span><i class="fal fa-calendar-alt"></i><a href="#">23rd March 2019</a></span>
-              <span><i class="fal fa-comments"></i><a href="#">43 Comments</a></span>
+              <span><i class="fal fa-calendar-alt"></i><a href="#">31st March 2023</a></span>
+              <span><i class="fal fa-comments"></i><a href="#">0 Comments</a></span>
             </div>
             <h3>
               <a href="#">
-                Quisque mattis nunc ege tinciduntdem pretiumnisiut
+                Benefits and drawbacks of using plywood in furniture making
               </a>
             </h3>
+          </div>
+          <div class="blogItem2">
+            <div class="bi_meta">
+              <span><i class="fal fa-calendar-alt"></i><a href="#">31st March 2023</a></span>
+              <span><i class="fal fa-comments"></i><a href="#">0 Comments</a></span>
+            </div>
+            <h3>
           </div>
           <div class="blogItem2">
             <div class="bi_meta">
