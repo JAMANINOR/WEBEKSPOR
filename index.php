@@ -246,9 +246,9 @@
           <i class="bigger fas fa-tree"></i>
           <em><img src="images/jenis_kayu/maranti.png" class="img-fluid" alt="Responsive image" width="350"></em>
           <span></span>
-          <h3>Meranti Plywood</h3>
+          <h3>Meranti Wood</h3>
           <p>
-            Meranti plywood is a high-quality and durable wood product that is suitable for a wide range of construction and furniture needs. It is easy to work with and can be customized to fit specific requirements.
+            Meranti Wood is a high-quality and durable wood product that is suitable for a wide range of construction and furniture needs. It is easy to work with and can be customized to fit specific requirements.<br> <br>
           </p>
         </div>
       </div>
@@ -257,9 +257,9 @@
           <i class="bigger fas fa-tree"></i>
           <em><img src="images/jenis_kayu/albasia.png" class="img-fluid" alt="Responsive image" width="612"></em>
           <span></span>
-          <h3>Albizia Plywood</h3>
+          <h3>Albizia Wood</h3>
           <p>
-             Albizia plywood is a lightweight and affordable option for various applications, such as furniture, packaging, and construction. It is easy to work with and has a uniform texture and color, making it suitable for painting and staining.
+             Albizia Wood is a lightweight and affordable option for various applications, such as furniture, packaging, and construction. It is easy to work with and has a uniform texture and color, making it suitable for painting and staining.
           </p>
         </div>
       </div>
@@ -268,9 +268,9 @@
           <i class="bigger fas fa-tree"></i>
           <em><img src="images/jenis_kayu/jati.png" class="img-fluid" alt="Responsive image" width="612"></em>
           <span></span>
-          <h3>Teak Plywood</h3>
+          <h3>Teak Wood</h3>
           <p>
-            Teak plywood is a premium quality wood product that is highly valued for its durability, strength, and resistance to decay and insects. It is often used in the construction of boats, outdoor furniture, and other high-end applications.
+            Teak Wood is a premium quality wood product that is highly valued for its durability, strength, and resistance to decay and insects. It is often used in the construction of boats, outdoor furniture, and other high-end applications.
           </p>
         </div>
       </div>
@@ -758,15 +758,8 @@
               <span><i class="fal fa-comments"></i><a href="#">0 Comments</a></span>
             </div>
             <h3>
-          </div>
-          <div class="blogItem2">
-            <div class="bi_meta">
-              <span><i class="fal fa-calendar-alt"></i><a href="#">23rd March 2019</a></span>
-              <span><i class="fal fa-comments"></i><a href="#">43 Comments</a></span>
-            </div>
-            <h3>
               <a href="#">
-                basic rules of running web agency business company.
+                 Advancements in Plywood Technology: New Materials and Manufacturing Processes.
               </a>
             </h3>
           </div>
