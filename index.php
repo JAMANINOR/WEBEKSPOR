@@ -244,7 +244,7 @@
       <div class="col-lg-4 col-md-6">
         <div class="icon_box_01 text-center">
           <i class="bigger fas fa-tree"></i>
-          <i class="smaller fas fa-tree"></i>
+          <em><img src="images/jenis_kayu/maranti.png" class="img-fluid" alt="Responsive image" width="350"></em>
           <span></span>
           <h3>Meranti Plywood</h3>
           <p>
@@ -255,7 +255,7 @@
       <div class="col-lg-4 col-md-6">
         <div class="icon_box_01 text-center">
           <i class="bigger fas fa-tree"></i>
-          <i class="smaller fas fa-tree"></i>
+          <em><img src="images/jenis_kayu/albasia.png" class="img-fluid" alt="Responsive image" width="612"></em>
           <span></span>
           <h3>Albizia Plywood</h3>
           <p>
@@ -266,7 +266,7 @@
       <div class="col-lg-4 col-md-6">
         <div class="icon_box_01 text-center">
           <i class="bigger fas fa-tree"></i>
-          <i class="smaller fas fa-tree"></i>
+          <em><img src="images/jenis_kayu/jati.png" class="img-fluid" alt="Responsive image" width="612"></em>
           <span></span>
           <h3>Teak Plywood</h3>
           <p>
