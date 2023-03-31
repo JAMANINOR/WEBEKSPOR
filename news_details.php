@@ -43,7 +43,7 @@
   <section class="page_banner">
     <div class="container">
       <div class="col-xl-12 text-center">
-        <h2>News Details 01</h2>
+        <h2>News Details</h2>
         <div class="breadcrumbs">
           <a href="index.php">Home</a><i>|</i><span>Blog</span>
         </div>
