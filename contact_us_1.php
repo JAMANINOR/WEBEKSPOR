@@ -4,7 +4,7 @@
 
 <head>
   <meta charset="UTF-8">
-  <title>Industing - Industry & Factory Business HTML5 Template</title>
+  <title>JAN INTERNATIONAL EKSPORT</title>
   <meta name="viewport" content="width=device-width">
 
   <link rel="stylesheet" type="text/css" href="css/bootstrap.css" />
@@ -89,7 +89,7 @@
                 <a href="https://themewar.com/cdn-cgi/l/email-protection" class="__cf_email__"
                   data-cfemail="afc6c1c9c0efd8cacdc2cec6c381ccc0c2">janinternationalekspor@gmail.com</a> <br /><a
                   href="https://themewar.com/cdn-cgi/l/email-protection" class="__cf_email__"
-                  data-cfemail="eb82858d84ab8e938a869b878ec59c8e89c5888486"></a>
+                  data-cfemail="eb82858d84ab8e938a869b878ec59c8e89c5888486">info@woodtradehub.com</a>
               </p>
               <a href="#">Mail Us</a>
             </div>
