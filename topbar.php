@@ -24,7 +24,7 @@
               <h5>Email Address</h5>
               <p><a href="https://themewar.com/cdn-cgi/l/email-protection#8be2e5ede4cbfceee9e6eae2e7a5e8e4e6"><span
                     class="__cf_email__"
-                    data-cfemail="d2bbbcb4bd92a5b7b0bfb3bbbefcb1bdbf">janinternationaleksport@gmail.com</span></a></p>
+                    data-cfemail="d2bbbcb4bd92a5b7b0bfb3bbbefcb1bdbf">info@woodtradehub.com</span></a></p>
             </div>
             <div class="topbar_element info_element">
               <i class="fa fa-phone"></i>
@@ -107,7 +107,7 @@
           <ul class="footer__contacts">
             <li>Phone: +6285754862997</li>
             <li>Email: <a href="https://themewar.com/cdn-cgi/l/email-protection" class="__cf_email__"
-                data-cfemail="59373c3c3d313c35291920363621773a3634">[janinternationaleksport@gmail.com]</a></li>
+                data-cfemail="59373c3c3d313c35291920363621773a3634"> info@woodtradehub.com</a></li>
             <li>Address: 70673 Simpang empat, banjar, kalimantan selatan, Indonesia</li>
           </ul>
         </div>

@@ -34,18 +34,18 @@
             <h3 class="widget_title">Our Services<span>.</span></h3>
             <div class="recentServices">
               <div class="serviceItem clearfix">
-                <img class="float-left" src="images/widget/1.jpg" alt="" />
-                <h5><a href="#">Lorem ipsum dolor sit am et, consectetur.</a></h5>
+                <img src="images/widget/1.JPG" alt="" width="300" class="float-left" />
+                <h5><a href="#">Export Management Services.</a></h5>
                 <span>&nbsp;</span>
               </div>
               <div class="serviceItem clearfix">
-                <img class="float-left" src="images/widget/2.jpg" alt="" />
-                <h5><a href="#">Lorem ipsum dolor sit am et, consectetur.</a></h5>
+                <img src="images/widget/2.JPG" alt="" width="300" class="float-left" />
+                <h5><a href="#">Global Shipping Solutions.</a></h5>
                 <span>&nbsp;</span>
               </div>
               <div class="serviceItem clearfix">
-                <img class="float-left" src="images/widget/3.jpg" alt="" />
-                <h5><a href="#">Lorem ipsum dolor sit am et, consectetur.</a></h5>
+                <img src="images/widget/3.JPG" alt="" width="300" class="float-left" />
+                <h5><a href="#">Suplay Chain Management.</a></h5>
                 <span>&nbsp;</span>
               </div>
             </div>

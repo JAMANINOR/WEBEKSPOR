@@ -206,10 +206,10 @@
       <div class="row">
         <div class="col-xl-6 col-lg-6 noPaddingRight">
           <div class="video_01 mrm15 text-right">
-            <img src="images/home/utama.jpg" alt="" />
+            <img src="images/home/1.jpg" alt="" />
             <div class="vp">
-              <img src="images/home/kedua.jpg">
-              <a class="videoPlayer" href="https://player.vimeo.com/video/78393586"><em class="fa fa-play"></em></a>
+              <img src="images/home/2.jpg" alt="" />
+              <a class="videoPlayer" href="https://player.vimeo.com/video/78393586"><i class="fa fa-play"></i></a>
             </div>
           </div>
         </div>
@@ -243,18 +243,20 @@
     <div class="row">
       <div class="col-lg-4 col-md-6">
         <div class="icon_box_01 text-center">
-         <em><img src="images/jenis_kayu/maranti.png" class="img-fluid" alt="Responsive image" width="350"></em>
-           <span></span>
+          <i class="bigger fas fa-tree"></i>
+          <i class="smaller fas fa-tree"></i>
+          <span></span>
           <h3>Meranti Plywood</h3>
           <p>
-            Meranti plywood is a high-quality and durable wood product that is suitable for a wide range of construction and furniture needs. It is easy to work with and can be customized to fit specific requirements.<br> <br>
+            Meranti plywood is a high-quality and durable wood product that is suitable for a wide range of construction and furniture needs. It is easy to work with and can be customized to fit specific requirements.
           </p>
         </div>
       </div>
       <div class="col-lg-4 col-md-6">
         <div class="icon_box_01 text-center">
-          <em><img src="images/jenis_kayu/albasia.png" class="img-fluid" alt="Responsive image" width="350"></em>
-           <span></span>
+          <i class="bigger fas fa-tree"></i>
+          <i class="smaller fas fa-tree"></i>
+          <span></span>
           <h3>Albizia Plywood</h3>
           <p>
              Albizia plywood is a lightweight and affordable option for various applications, such as furniture, packaging, and construction. It is easy to work with and has a uniform texture and color, making it suitable for painting and staining.
@@ -263,7 +265,8 @@
       </div>
       <div class="col-lg-4 col-md-6">
         <div class="icon_box_01 text-center">
-          <i><img src="images/jenis_kayu/jati.png" class="img-fluid" alt="Responsive image" width="350"></i>
+          <i class="bigger fas fa-tree"></i>
+          <i class="smaller fas fa-tree"></i>
           <span></span>
           <h3>Teak Plywood</h3>
           <p>
@@ -693,94 +696,80 @@
           </h2>
         </div>
       </div>
-		
-			<div class="child-page-listing">
-
-  <div class="grid-container">
-
-    <article id="3685" class="location-listing">
-
-      <a class="location-title" href="#">
-          San Francisco           </a>
-
-      <div class="location-image">
-        <a href="#">
-            <img width="600" height="450" src="images/blog/6.jpg" alt="san francisco">    </a>
-
+      <div class="row">
+        <div class="col-xl-7 col-md-7">
+          <div class="blogItem">
+            <div class="bi_thumb">
+              <img src="images/blog/1.jpg" alt="" />
+            </div>
+            <div class="bi_details">
+              <div class="bi_meta">
+                <span><i class="fal fa-calendar-alt"></i><a href="#">23rd March 2019</a></span>
+                <span><i class="fal fa-comments"></i><a href="#">43 Comments</a></span>
+                <span><i class="fal fa-user"></i>By <a href="#">Habibur Rahman</a></span>
+              </div>
+              <h3>
+                <a href="#">Utenim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea cure
+                  dolor.</a>
+              </h3>
+              <p>
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
+                dolore
+                magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+                commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+                dolore eu fugiat nulla pariatur.
+              </p>
+              <a href="#" class="read_more">Read More</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-xl-5 col-md-5">
+          <div class="blogItem2">
+            <div class="bi_meta">
+              <span><i class="fal fa-calendar-alt"></i><a href="#">23rd March 2019</a></span>
+              <span><i class="fal fa-comments"></i><a href="#">43 Comments</a></span>
+            </div>
+            <h3>
+              <a href="#">
+                Vivamus nec tellus non leo ornare scelerisque ut in neque
+              </a>
+            </h3>
+          </div>
+          <div class="blogItem2">
+            <div class="bi_meta">
+              <span><i class="fal fa-calendar-alt"></i><a href="#">23rd March 2019</a></span>
+              <span><i class="fal fa-comments"></i><a href="#">43 Comments</a></span>
+            </div>
+            <h3>
+              <a href="#">
+                Lorem ipsum dolor sit amet, conse elit, sed do eiusmod tempor.
+              </a>
+            </h3>
+          </div>
+          <div class="blogItem2">
+            <div class="bi_meta">
+              <span><i class="fal fa-calendar-alt"></i><a href="#">23rd March 2019</a></span>
+              <span><i class="fal fa-comments"></i><a href="#">43 Comments</a></span>
+            </div>
+            <h3>
+              <a href="#">
+                Quisque mattis nunc ege tinciduntdem pretiumnisiut
+              </a>
+            </h3>
+          </div>
+          <div class="blogItem2">
+            <div class="bi_meta">
+              <span><i class="fal fa-calendar-alt"></i><a href="#">23rd March 2019</a></span>
+              <span><i class="fal fa-comments"></i><a href="#">43 Comments</a></span>
+            </div>
+            <h3>
+              <a href="#">
+                basic rules of running web agency business company.
+              </a>
+            </h3>
+          </div>
+        </div>
       </div>
-
-    </article>
-
-    <article id="3688" class="location-listing">
-
-      <a class="location-title" href="#">
-          London            </a>
-
-      <div class="location-image">
-        <a href="#">
-            <img width="600" height="450" src="images/blog/5.jpg" alt="london">  </a>
-
-      </div>
-
-    </article>
-
-    <article id="3691" class="location-listing">
-
-      <a class="location-title" href="#">
-          New York            </a>
-
-      <div class="location-image">
-        <a href="#">
-            <img width="600" height="450" src="images/blog/4.jpg" alt="new york">  </a>
-
-      </div>
-
-    </article>
-
-    <article id="3694" class="location-listing">
-
-      <a class="location-title" href="#">
-          Cape Town           </a>
-
-      <div class="location-image">
-        <a href="#">
-            <img width="600" height="450" src="images/blog/3.jpg" alt="cape town">  </a>
-
-      </div>
-
-    </article>
-
-    <article id="3697" class="location-listing">
-
-      <a class="location-title" href="#">
-          Beijing           </a>
-
-      <div class="location-image">
-        <a href="#">
-            <img width="600" height="450" src="images/blog/2.jpg" alt="beijing">    </a>
-
-      </div>
-
-    </article>
-
-    <article id="3700" class="location-listing">
-
-      <a class="location-title" href="#">
-          Paris           </a>
-
-      <div class="location-image">
-        <a href="#">
-            <img width="600" height="450" src="images/blog/1.jpg" alt="paris">          
-          </a>
-      </div>
-
-    </article>
-
-  </div>
-  <!-- end grid container -->
-
-</div>
-		
     </div>
   </section>
 	
@@ -820,4 +809,4 @@
 </body>
 
 
-</html>
+</html> 
