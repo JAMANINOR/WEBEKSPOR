@@ -25,7 +25,7 @@
   <link rel="stylesheet" type="text/css" href="css/presets/color1.css" id="colorChange" />
 
 
-  <link rel="icon" type="image/png" href="images/favicon.png">
+  <link rel="icon" type="image/png" href="images/icon perushaan.png">
 </head>
 
 <body>
@@ -82,7 +82,7 @@
                 </div>
                 <div class="sb_footer">
                   <span><i class="fal fa-comments"></i><a href="#">0 Comments</a></span>
-                  <span><i class="fal fa-user"></i>By <a href="#">Jam'ani NOr</a></span>
+                  <span><i class="fal fa-user"></i>By <a href="#">Jam'ani Nor</a></span>
                 </div>
               </div>
             </div>
@@ -104,7 +104,7 @@
                 </div>
                 <div class="sb_footer">
                                     <span><i class="fal fa-comments"></i><a href="#">0 Comments</a></span>
-                  <span><i class="fal fa-user"></i>By <a href="#">Jam'ani NOr</a></span>
+                  <span><i class="fal fa-user"></i>By <a href="#">Jam'ani Nor</a></span>
                 </div>
               </div>
             </div>
@@ -123,7 +123,7 @@
                 </div>
                 <div class="sb_footer">
                                     <span><i class="fal fa-comments"></i><a href="#">0 Comments</a></span>
-                  <span><i class="fal fa-user"></i>By <a href="#">Jam'ani NOr</a></span>
+                  <span><i class="fal fa-user"></i>By <a href="#">Jam'ani Nor</a></span>
                 </div>
               </div>
             </div>
@@ -142,7 +142,7 @@
                 </div>
                 <div class="sb_footer">
                                     <span><i class="fal fa-comments"></i><a href="#">0 Comments</a></span>
-                  <span><i class="fal fa-user"></i>By <a href="#">Jam'ani NOr</a></span>
+                  <span><i class="fal fa-user"></i>By <a href="#">Jam'ani Nor</a></span>
                 </div>
               </div>
             </div>
@@ -162,7 +162,7 @@
                       </div>
                       <div class="sb_footer">
                                         <span><i class="fal fa-comments"></i><a href="#">0 Comments</a></span>
-                  <span><i class="fal fa-user"></i>By <a href="#">Jam'ani NOr</a></span>
+                  <span><i class="fal fa-user"></i>By <a href="#">Jam'ani Nor</a></span>
                       </div>
                     </div>
                   </div>
@@ -184,7 +184,7 @@
                 </div>
                 <div class="sb_footer">
                                    <span><i class="fal fa-comments"></i><a href="#">0 Comments</a></span>
-                  <span><i class="fal fa-user"></i>By <a href="#">Jam'ani NOr</a></span>
+                  <span><i class="fal fa-user"></i>By <a href="#">Jam'ani Nor</a></span>
                 </div>
               </div>
             </div>
@@ -203,7 +203,7 @@
                 </div>
                 <div class="sb_footer">
                                    <span><i class="fal fa-comments"></i><a href="#">0 Comments</a></span>
-                  <span><i class="fal fa-user"></i>By <a href="#">Jam'ani NOr</a></span>
+                  <span><i class="fal fa-user"></i>By <a href="#">Jam'ani Nor</a></span>
                 </div>
               </div>
             </div>
@@ -225,7 +225,7 @@
                 </div>
                 <div class="sb_footer">
                                     <span><i class="fal fa-comments"></i><a href="#">0 Comments</a></span>
-                  <span><i class="fal fa-user"></i>By <a href="#">Jam'ani NOr</a></span>
+                  <span><i class="fal fa-user"></i>By <a href="#">Jam'ani Nor</a></span>
                 </div>
               </div>
             </div>
@@ -244,7 +244,7 @@
                 </div>
                 <div class="sb_footer">
                                     <span><i class="fal fa-comments"></i><a href="#">0 Comments</a></span>
-                  <span><i class="fal fa-user"></i>By <a href="#">Jam'ani NOr</a></span>
+                  <span><i class="fal fa-user"></i>By <a href="#">Jam'ani Nor</a></span>
                 </div>
               </div>
             </div>
@@ -292,7 +292,6 @@
             <aside class="widget">
               <h3 class="widget_title">Follow Us</h3>
               <div class="socialLinks">
-                <a href="#"><i class="fab fa-twitter"></i>
                 <a href="https://www.facebook.com/profile.php?id=100089813976111&mibextid=LQQJ4d"><i class="fab fa-facebook-f"></i></a>
 				<a href="https://instagram.com/jan_international_eksport?igshid=YmMyMTA2M2Y="><i class="fab fa-instagram"></i></a>
 				<a href="https://www.linkedin.com/company/pt-jan-international-eksport/"><i class="fab fa-linkedin"></i></a>
@@ -313,27 +312,27 @@
               <h3 class="widget_title">Feeds</h3>
               <div class="allfeeds">
                 <div class="singlefeeds clearfix">
-                  <img src="images/widget/feeds/1.jpg" alt="" />
+                  <img src="images/widget/feeds/1.jpg" alt="" width="100" />
                   <h6><a href="#">Alonso Kelina Falao Asiano Pero</a></h6>
                   <span><i class="fal fa-clock"></i>6 Hours ago</span>
                 </div>
                 <div class="singlefeeds clearfix">
-                  <img src="images/widget/feeds/2.jpg" alt="" />
+                  <img src="images/widget/feeds/2.jpg" alt="" width="100" />
                   <h6><a href="#">It is a long established fact that a reader</a></h6>
                   <span><i class="fal fa-clock"></i>6 Hours ago</span>
                 </div>
                 <div class="singlefeeds clearfix">
-                  <img src="images/widget/feeds/3.jpg" alt="" />
+                  <img src="images/widget/feeds/3.jpg" alt="" width="100" />
                   <h6><a href="#">Many desktop publish packages and web</a></h6>
                   <span><i class="fal fa-clock"></i>6 Hours ago</span>
                 </div>
                 <div class="singlefeeds clearfix">
-                  <img src="images/widget/feeds/4.jpg" alt="" />
+                  <img src="images/widget/feeds/4.jpg" alt="" width="100" />
                   <h6><a href="#">Various versions have evolved over the years</a></h6>
                   <span><i class="fal fa-clock"></i>6 Hours ago</span>
                 </div>
                 <div class="singlefeeds clearfix">
-                  <img src="images/widget/feeds/5.jpg" alt="" />
+                  <img src="images/widget/feeds/5.jpg" alt="" width="100" />
                   <h6><a href="#">Photo booth anim 8-bit PBR 3 wolf moon.</a></h6>
                   <span><i class="fal fa-clock"></i>6 Hours ago</span>
                 </div>
