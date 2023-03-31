@@ -25,7 +25,7 @@
   <link rel="stylesheet" type="text/css" href="css/presets/color1.css" id="colorChange" />
 
 
-  <link rel="icon" type="image/png" href="images/favicon.png">
+  <link rel="icon" type="image/png" href="images/LOGO PERUSAHAAN 1.png">
 </head>
 
 <body>
@@ -38,337 +38,14 @@
     </div>
   </div>
 
-
-  <div class="color_settings">
-    <a href="javascript:void(0);" class="switch-btn"><i class="fa fa-cogs"></i></a>
-    <div class="color_preset">
-      <h4>Choose color skin</h4>
-      <button id="color1" class="active"><img src="images/settings/1.png" width="30" height="20" alt="color1"></button>
-      <button id="color2"><img src="images/settings/2.png" width="30" height="20" alt="color1"></button>
-      <button id="color3"><img src="images/settings/3.png" width="30" height="20" alt="color1"></button>
-      <button id="color4"><img src="images/settings/4.png" width="30" height="20" alt="color1"></button>
-      <button id="color5"><img src="images/settings/5.png" width="30" height="20" alt="color1"></button>
-      <button id="color6"><img src="images/settings/6.png" width="30" height="20" alt="color1"></button>
-      <button id="color7"><img src="images/settings/7.png" width="30" height="20" alt="color1"></button>
-      <button id="color8"><img src="images/settings/8.png" width="30" height="20" alt="color1"></button>
-      <button id="color9"><img src="images/settings/9.png" width="30" height="20" alt="color1"></button>
-      <button id="color10"><img src="images/settings/10.png" width="30" height="20" alt="color1"></button>
-      <button id="color11"><img src="images/settings/11.png" width="30" height="20" alt="color1"></button>
-      <button id="color12"><img src="images/settings/12.png" width="30" height="20" alt="color1"></button>
-      <button id="color13"><img src="images/settings/13.png" width="30" height="20" alt="color1"></button>
-      <button id="color14"><img src="images/settings/14.png" width="30" height="20" alt="color1"></button>
-      <button id="color15"><img src="images/settings/15.png" width="30" height="20" alt="color1"></button>
-    </div>
-  </div>
-
-  <section class="topbar">
-    <div class="header-container">
-      <div class="row">
-        <div class="col-xl-4 col-lg-4 col-md-3 noPadding">
-          <div class="logo text-left">
-            <a href="index.html">
-              <img src="images/logo.png" alt="" />
-            </a>
-          </div>
-        </div>
-        <div class="col-xl-8 col-lg-8 col-md-9">
-          <div class="topbar_right text-right">
-            <div class="topbar_element info_element">
-              <i class="fa fa-envelope"></i>
-              <h5>Email Address</h5>
-              <p><a href="https://themewar.com/cdn-cgi/l/email-protection#9df4f3fbf2ddeaf8fff0fcf4f1b3fef2f0"><span
-                    class="__cf_email__"
-                    data-cfemail="640d0a020b2413010609050d084a070b09">[email&#160;protected]</span></a></p>
-            </div>
-            <div class="topbar_element info_element">
-              <i class="fa fa-phone"></i>
-              <h5>Phone Number</h5>
-              <p>+897 (676) 56 675 7</p>
-            </div>
-            <div class="topbar_element search_element">
-              <form method="get" action="#">
-                <i class="fa fa-search"></i>
-                <input type="search" name="s" placeholder="Search keyword..." />
-              </form>
-            </div>
-            <div class="topbar_element settings_bar">
-              <a href="#" class="hamburger" id="open-overlay-nav"><i class="fal fa-bars"></i></a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-  <section class="nav_bar" id="fix_nav">
-    <div class="header-container">
-      <div class="row">
-        <div class="col-xl-8 col-lg-9">
-          <div class="mobileMenuBar">
-            <a href="javascript: void(0);"><span>Menu</span><i class="fa fa-bars"></i></a>
-          </div>
-          <nav class="mainmenu">
-            <ul>
-              <li class="current-menu-item menu-item-has-children">
-                <a href="#">Home</a>
-                <ul class="sub_menu">
-                  <li><a href="index.html">Home Version 01</a></li>
-                  <li><a href="index_2.html">Home Version 02</a></li>
-                </ul>
-              </li>
-              <li><a href="aboutus.html">About</a></li>
-              <li class=" menu-item-has-children">
-                <a href="javascript:void(0);">Services</a>
-                <ul class="sub_menu">
-                  <li class=" menu-item-has-children">
-                    <a href="javascript:void(0);">Service Pages</a>
-                    <ul class="sub_menu">
-                      <li><a href="service_1.html">Service 01</a></li>
-                      <li><a href="service_2.html">Service 02</a></li>
-                      <li><a href="service_3.html">Service 03</a></li>
-                    </ul>
-                  </li>
-                  <li><a href="service_details.html">Service Details</a></li>
-                </ul>
-              </li>
-              <li class=" menu-item-has-children">
-                <a href="javascript:void(0);">Projects</a>
-                <ul class="sub_menu">
-                  <li class=" menu-item-has-children">
-                    <a href="javascript:void(0);">Project Lists</a>
-                    <ul class="sub_menu">
-                      <li><a href="project_1.html">Project 01</a></li>
-                      <li><a href="project_2.html">Project 02</a></li>
-                      <li><a href="project_3.html">Project 03</a></li>
-                      <li><a href="project_4.html">Project 04</a></li>
-                    </ul>
-                  </li>
-                  <li class=" menu-item-has-children">
-                    <a href="javascript:void(0);">Project Details</a>
-                    <ul class="sub_menu">
-                      <li><a href="project_details_1.html">Details 01</a></li>
-                      <li><a href="project_details_2.html">Details 02</a></li>
-                    </ul>
-                  </li>
-                </ul>
-              </li>
-              <li class=" menu-item-has-children">
-                <a href="javascript:void(0);">News</a>
-                <ul class="sub_menu">
-                  <li class=" menu-item-has-children">
-                    <a href="javascript:void(0);">News Lists</a>
-                    <ul class="sub_menu">
-                      <li><a href="news_list_1.html">News List 01</a></li>
-                      <li><a href="news_list_2.html">News List 02</a></li>
-                    </ul>
-                  </li>
-                  <li class=" menu-item-has-children">
-                    <a href="javascript:void(0);">News Details</a>
-                    <ul class="sub_menu">
-                      <li><a href="news_details_1.html">Details 01</a></li>
-                      <li><a href="news_details_2.html">Details 02</a></li>
-                      <li><a href="news_details_3.html">Details 03</a></li>
-                    </ul>
-                  </li>
-                </ul>
-              </li>
-              <li class=" menu-item-has-children">
-                <a href="javascript:void(0);">Shop</a>
-                <ul class="sub_menu">
-                  <li class=" menu-item-has-children">
-                    <a href="javascript:void(0);">Shop Pages</a>
-                    <ul class="sub_menu">
-                      <li><a href="shop_1.html">Shop 01</a></li>
-                      <li><a href="shop_2.html">Shop 02</a></li>
-                    </ul>
-                  </li>
-                  <li><a href="shop_details.html">Product Details</a></li>
-                  <li class=" menu-item-has-children">
-                    <a href="javascript:void(0);">Other Pages</a>
-                    <ul class="sub_menu">
-                      <li><a href="cart.html">Cart Page</a></li>
-                      <li><a href="checkout.html">Checkout Page</a></li>
-                    </ul>
-                  </li>
-                </ul>
-              </li>
-              <li class=" menu-item-has-children">
-                <a href="javascript:void(0);">Contact</a>
-                <ul class="sub_menu">
-                  <li><a href="contact_us_1.html">Contact Us 01</a></li>
-                  <li><a href="contact_us_2.html">Contact Us 02</a></li>
-                </ul>
-              </li>
-              <li class=" menu-item-has-children">
-                <a href="javascript:void(0);">Pages</a>
-                <ul class="sub_menu">
-                  <li><a href="team.html">Team Page</a></li>
-                  <li><a href="404.html">404 Page</a></li>
-                </ul>
-              </li>
-            </ul>
-          </nav>
-        </div>
-        <div class="col-xl-4 col-lg-3">
-          <div class="top_social text-right">
-            <a href="#"><i class="fab fa-facebook-f"></i></a>
-            <a href="#"><i class="fab fa-twitter"></i></a>
-            <a href="#"><i class="fab fa-behance"></i></a>
-            <a href="#"><i class="fab fa-pinterest"></i></a>
-            <a href="#"><i class="fab fa-youtube"></i></a>
-          </div>
-        </div>
-      </div>
-    </div>
-    <span class="right_bgs"></span>
-  </section>
-
-  <div class="popup popup__menu">
-    <div class="header-container mobileContainer">
-      <div class="row">
-        <div class="col-lg-8 text-left">
-          <div class="popup_logos">
-            <a href="index.html"><img src="images/logo.png" alt=""></a>
-          </div>
-        </div>
-        <div class="col-lg-4 text-right">
-          <a href="#" id="close-popup" class="close-popup"></a>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-lg-12">
-          <div class="popup-inner">
-            <div class="dl-menu__wrap dl-menuwrapper">
-              <ul class="dl-menu dl-menuopen">
-                <li class="current-menu-item menu-item-has-children">
-                  <a href="#">Home</a>
-                  <ul class="dl-submenu">
-                    <li><a href="index.html">Home Version 01</a></li>
-                    <li><a href="index_2.html">Home Version 02</a></li>
-                  </ul>
-                </li>
-                <li><a href="aboutus.html">About</a></li>
-                <li class="menu-item-has-children">
-                  <a href="javascript:void(0);">Services</a>
-                  <ul class="dl-submenu">
-                    <li class="menu-item-has-children">
-                      <a href="javascript:void(0);">Service Pages</a>
-                      <ul class="dl-submenu">
-                        <li><a href="service_1.html">Service 01</a></li>
-                        <li><a href="service_2.html">Service 02</a></li>
-                        <li><a href="service_3.html">Service 03</a></li>
-                      </ul>
-                    </li>
-                    <li><a href="service_details.html">Service Details</a></li>
-                  </ul>
-                </li>
-                <li class="menu-item-has-children">
-                  <a href="javascript:void(0);">Projects</a>
-                  <ul class="dl-submenu">
-                    <li class="menu-item-has-children">
-                      <a href="javascript:void(0);">Project Lists</a>
-                      <ul class="dl-submenu">
-                        <li><a href="project_1.html">Project 01</a></li>
-                        <li><a href="project_2.html">Project 02</a></li>
-                        <li><a href="project_3.html">Project 03</a></li>
-                        <li><a href="project_4.html">Project 04</a></li>
-                      </ul>
-                    </li>
-                    <li class="menu-item-has-children">
-                      <a href="javascript:void(0);">Project Details</a>
-                      <ul class="dl-submenu">
-                        <li><a href="project_details_1.html">Details 01</a></li>
-                        <li><a href="project_details_2.html">Details 02</a></li>
-                      </ul>
-                    </li>
-                  </ul>
-                </li>
-                <li class="menu-item-has-children">
-                  <a href="javascript:void(0);">News</a>
-                  <ul class="dl-submenu">
-                    <li class="menu-item-has-children">
-                      <a href="javascript:void(0);">News Lists</a>
-                      <ul class="dl-submenu">
-                        <li><a href="news_list_1.html">News List 01</a></li>
-                        <li><a href="news_list_2.html">News List 02</a></li>
-                      </ul>
-                    </li>
-                    <li class="menu-item-has-children">
-                      <a href="javascript:void(0);">News Details</a>
-                      <ul class="dl-submenu">
-                        <li><a href="news_details_1.html">Details 01</a></li>
-                        <li><a href="news_details_2.html">Details 02</a></li>
-                        <li><a href="news_details_3.html">Details 03</a></li>
-                      </ul>
-                    </li>
-                  </ul>
-                </li>
-                <li class="menu-item-has-children">
-                  <a href="javascript:void(0);">Shop</a>
-                  <ul class="dl-submenu">
-                    <li class="menu-item-has-children">
-                      <a href="javascript:void(0);">Shop Pages</a>
-                      <ul class="dl-submenu">
-                        <li><a href="shop_1.html">Shop 01</a></li>
-                        <li><a href="shop_2.html">Shop 02</a></li>
-                      </ul>
-                    </li>
-                    <li><a href="shop_details.html">Product Details</a></li>
-                    <li class="menu-item-has-children">
-                      <a href="javascript:void(0);">Other Pages</a>
-                      <ul class="dl-submenu">
-                        <li><a href="cart.html">Cart Page</a></li>
-                        <li><a href="checkout.html">Checkout Page</a></li>
-                      </ul>
-                    </li>
-                  </ul>
-                </li>
-                <li class="menu-item-has-children">
-                  <a href="javascript:void(0);">Contact</a>
-                  <ul class="dl-submenu">
-                    <li><a href="contact_us_1.html">Contact Us 01</a></li>
-                    <li><a href="contact_us_2.html">Contact Us 02</a></li>
-                  </ul>
-                </li>
-                <li class="menu-item-has-children">
-                  <a href="javascript:void(0);">Pages</a>
-                  <ul class="dl-submenu">
-                    <li><a href="team.html">Team Page</a></li>
-                    <li><a href="404.html">404 Page</a></li>
-                  </ul>
-                </li>
-              </ul>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-lg-6 col-sm-6 col-xs-12 text-left">
-          <ul class="footer__contacts">
-            <li>Phone: +1 (00) 123-45-67</li>
-            <li>Email: <a href="https://themewar.com/cdn-cgi/l/email-protection" class="__cf_email__"
-                data-cfemail="4a242f2f2e222f263a0a3325253264292527">[email&#160;protected]</a></li>
-            <li>Address: 666 Road Broklyn Street, 88 New York, USA</li>
-          </ul>
-        </div>
-        <div class="col-lg-6 col-sm-6 col-xs-12 col-xs-12">
-          <div class="foo_social popUp_social text-right">
-            <a href="#"><i class="fab fa-facebook-f"></i></a>
-            <a href="#"><i class="fab fa-twitter"></i></a>
-            <a href="#"><i class="fab fa-behance"></i></a>
-            <a href="#"><i class="fab fa-pinterest"></i></a>
-            <a href="#"><i class="fab fa-youtube"></i></a>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
+ <?php include 'topbar.php';?>
 
   <section class="page_banner">
     <div class="container">
       <div class="col-xl-12 text-center">
         <h2>News Details 01</h2>
         <div class="breadcrumbs">
-          <a href="index.html">Home</a><i>|</i><span>Blog</span>
+          <a href="index.php">Home</a><i>|</i><span>Blog</span>
         </div>
       </div>
     </div>
@@ -380,79 +57,38 @@
           <div class="newsDetailsArea">
             <div class="newsThumb">
               <div class="ntItem">
-                <img src="images/blog/26.jpg" alt="" />
+                <img src="images/blog/1.jpg" alt="" />
               </div>
             </div>
             <div class="newsDetails">
               <div class="ndMeta">
                 <span><i class="fal fa-user"></i>By <a href="#">Admin</a></span>
-                <span><i class="fal fa-comments"></i>44 Comments</span>
+                <span><i class="fal fa-comments"></i>0 Comments</span>
               </div>
-              <h2 class="ndTitle">Lorem ipsum dolor sit amet, consectetur adi pisicing elit, sed do eiusmod tempor.</h2>
+              <h2 class="ndTitle">Plywood industry sees increase in demand and growth in 2023.</h2>
               <div class="nd_content">
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-                  et dolore
-                  magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-                  commodo
-                  consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-                  nulla pariatur.
-                  Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est
-                  laborum.
-                  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium,
-                  totam rem aperiam,
-                  eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-                  Nemo enim ipsam
-                  voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos
-                  qui ratione
-                  voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem.
+                 The plywood industry is poised to experience a significant increase in demand and growth in 2023, according to experts in the field. The expected growth in the industry is attributed to several factors, including a rise in construction activity in emerging markets and a growing trend towards sustainable building practices.
                 </p>
                 <p>
-                  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-                  Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est
-                  laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-                  laudantium,
-                  totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta
-                  sunt
-                  explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-                  consequuntur
-                  magni dolores eos qui ratione voluptatem.
+                 As the world population continues to grow, so does the need for new housing, infrastructure, and commercial buildings. Emerging markets such as India and China have seen a surge in construction activity in recent years, and this trend is expected to continue. With construction activity on the rise, the demand for construction materials such as plywood is expected to increase as well.
                 </p>
                 <blockquote>
                   <p>
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tem
-                    ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-                    ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                   "The plywood industry's success story is a reminder that challenges can be turned into opportunities. With the rise in construction activity, particularly in emerging markets, the industry has been able to tap into a growing demand for building materials. By providing sustainable and innovative products, the industry has not only met this demand, but also created new markets and expanded its customer base. The key lesson here is that businesses that are able to anticipate and adapt to changing market conditions are more likely to thrive in the long run."
                   </p>
                   <h6>- Rosalina Pong</h6>
                 </blockquote>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-                  et dolore magna
-                  aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-                  commodo consequat.
-                  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-                  Excepteur
-                  sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-                  Sed ut perspiciatis
-                  unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque
-                  ipsa quae ab illo
-                  inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem
-                  quia voluptas sit
-                  aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi
-                  nesciunt. Neque
-                  porro quisquam est, qui dolorem.
+                  In addition to the increase in construction activity, the plywood industry is benefiting from a growing trend towards sustainable building practices. Consumers are increasingly aware of the environmental impact of the products they use, and they are demanding more sustainable options. Plywood is considered a more sustainable building material than traditional solid wood products because it uses smaller, fast-growing trees that can be replanted quickly. Additionally, engineered wood products like plywood offer several advantages over traditional solid wood products, including increased strength, durability, and stability.
                 </p>
                 <p>
-                  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-                  Excepteur sint
-                  occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut
-                  perspiciatis unde
-                  omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa
-                  quae ab illo
-                  inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem
-                  quia voluptas sit
-                  aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem.
+                 Experts predict that the plywood market will experience a compound annual growth rate of around 5% over the next few years, with the market value expected to reach over USD 100 billion by 2025. The industry is expected to respond to this growth by investing heavily in research and development, with many companies developing new products specifically designed to meet the needs of the construction industry.
+				<p>
+				  One of the key areas of focus for the plywood industry is sustainable practices. Many companies are committed to reducing their environmental impact by using sustainable raw materials and implementing responsible forestry practices. Some companies are even taking steps to develop new, more sustainable products that can be used in construction.
+				</p>
+				<p>
+				Overall, the plywood industry looks set to enjoy strong growth in the coming years, driven by a combination of increased demand and a commitment to sustainable practices. As the world continues to grow and change, the plywood industry is well-positioned to meet the challenges and opportunities of the future.
                 </p>
               </div>
               <div class="row mb50">
@@ -495,11 +131,10 @@
                       <img src="images/author/1.png" alt="" />
                       <h3><a href="#">Rosalina William</a></h3>
                       <div class="authorSocial">
-                        <a href="#"><i class="fab fa-facebook-f"></i>
-                        </a><a href="#"><i class="fab fa-twitter"></i>
-                        </a><a href="#"><i class="fab fa-behance"></i>
-                        </a><a href="#"><i class="fab fa-youtube"></i>
-                        </a><a href="#"><i class="fab fa-linkedin"></i></a>
+                        <a href="https://www.facebook.com/profile.php?id=100089813976111&mibextid=LQQJ4d"><i class="fab fa-facebook-f"></i></a>
+						<a href="https://instagram.com/jan_international_eksport?igshid=YmMyMTA2M2Y="><i class="fab fa-instagram"></i></a>
+						<a href="https://www.linkedin.com/company/pt-jan-international-eksport/"><i class="fab fa-linkedin"></i></a>
+						<a href="https://youtube.com/@janinternationaleksport"><i class="fab fa-youtube"></i></a>
                       </div>
                       <p>
                         Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
@@ -612,11 +247,10 @@
             <aside class="widget">
               <h3 class="widget_title">Follow Us</h3>
               <div class="socialLinks">
-                <a href="#"><i class="fab fa-twitter"></i>
-                </a><a href="#"><i class="fab fa-pinterest-p"></i>
-                </a><a href="#"><i class="fab fa-facebook-f"></i>
-                </a><a href="#"><i class="fab fa-instagram"></i>
-                </a><a href="#"><i class="fab fa-wordpress"></i></a>
+                <a href="https://www.facebook.com/profile.php?id=100089813976111&mibextid=LQQJ4d"><i class="fab fa-facebook-f"></i></a>
+				<a href="https://instagram.com/jan_international_eksport?igshid=YmMyMTA2M2Y="><i class="fab fa-instagram"></i></a>
+				<a href="https://www.linkedin.com/company/pt-jan-international-eksport/"><i class="fab fa-linkedin"></i></a>
+				<a href="https://youtube.com/@janinternationaleksport"><i class="fab fa-youtube"></i></a>
               </div>
             </aside>
             <aside class="widget">
@@ -633,27 +267,27 @@
               <h3 class="widget_title">Feeds</h3>
               <div class="allfeeds">
                 <div class="singlefeeds clearfix">
-                  <img src="images/widget/feeds/1.jpg" alt="" />
+                  <img src="images/widget/feeds/1.jpg" alt="" width="100" />
                   <h6><a href="#">Alonso Kelina Falao Asiano Pero</a></h6>
                   <span><i class="fal fa-clock"></i>6 Hours ago</span>
                 </div>
                 <div class="singlefeeds clearfix">
-                  <img src="images/widget/feeds/2.jpg" alt="" />
+                  <img src="images/widget/feeds/2.jpg" alt="" width="100" />
                   <h6><a href="#">It is a long established fact that a reader</a></h6>
                   <span><i class="fal fa-clock"></i>6 Hours ago</span>
                 </div>
                 <div class="singlefeeds clearfix">
-                  <img src="images/widget/feeds/3.jpg" alt="" />
+                  <img src="images/widget/feeds/3.jpg" alt="" width="100" />
                   <h6><a href="#">Many desktop publish packages and web</a></h6>
                   <span><i class="fal fa-clock"></i>6 Hours ago</span>
                 </div>
                 <div class="singlefeeds clearfix">
-                  <img src="images/widget/feeds/4.jpg" alt="" />
+                  <img src="images/widget/feeds/4.jpg" alt="" width="100" />
                   <h6><a href="#">Various versions have evolved over the years</a></h6>
                   <span><i class="fal fa-clock"></i>6 Hours ago</span>
                 </div>
                 <div class="singlefeeds clearfix">
-                  <img src="images/widget/feeds/5.jpg" alt="" />
+                  <img src="images/widget/feeds/5.jpg" alt="" width="100" />
                   <h6><a href="#">Photo booth anim 8-bit PBR 3 wolf moon.</a></h6>
                   <span><i class="fal fa-clock"></i>6 Hours ago</span>
                 </div>
@@ -673,96 +307,9 @@
       </div>
     </div>
   </section>
-  <footer class="footer_01">
-    <div class="container">
-      <div class="row">
-        <div class="col-xl-3 col-md-6 col-lg-3 noPaddingRight">
-          <aside class="widget">
-            <div class="about_widget">
-              <a href="index.html"><img src="images/logo_2.png" alt="" /></a>
-              <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-                dolore magna aliqua.
-                Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                consequat.
-              </p>
-              <div class="caller">
-                <i class="fal fa-headphones"></i>
-                <span>Talk to Our Officers</span>
-                <h3>+1 001-765-4321</h3>
-              </div>
-            </div>
-          </aside>
-        </div>
-        <div class="col-xl-2 col-md-6 col-lg-2 pdl45 noPaddingRight">
-          <aside class="widget">
-            <h3 class="widget_title">Important Links<span>.</span></h3>
-            <ul>
-              <li><a href="#">About Company</a></li>
-              <li><a href="#">Latest Projects</a></li>
-              <li><a href="#">Latest From Blog</a></li>
-              <li><a href="#">Our Testimonials</a></li>
-              <li><a href="#">Our Mission</a></li>
-              <li><a href="#">Contact Us</a></li>
-              <li><a href="#">Get a Quot</a></li>
-            </ul>
-          </aside>
-        </div>
-        <div class="col-xl-4 col-md-6 col-lg-4 pdl65">
-          <aside class="widget">
-            <h3 class="widget_title">Our Services<span>.</span></h3>
-            <div class="recentServices">
-              <div class="serviceItem clearfix">
-                <img class="float-left" src="images/widget/1.jpg" alt="" />
-                <h5><a href="#">Lorem ipsum dolor sit am et, consectetur.</a></h5>
-                <span>14 Jnauary, 2019</span>
-              </div>
-              <div class="serviceItem clearfix">
-                <img class="float-left" src="images/widget/2.jpg" alt="" />
-                <h5><a href="#">Lorem ipsum dolor sit am et, consectetur.</a></h5>
-                <span>19 February, 2019</span>
-              </div>
-              <div class="serviceItem clearfix">
-                <img class="float-left" src="images/widget/3.jpg" alt="" />
-                <h5><a href="#">Lorem ipsum dolor sit am et, consectetur.</a></h5>
-                <span>14 July, 2018</span>
-              </div>
-            </div>
-          </aside>
-        </div>
-        <div class="col-xl-3 col-md-6 col-lg-3">
-          <aside class="widget subscribe_widget">
-            <h3 class="widget_title">Subscribe Now<span>.</span></h3>
-            <div class="subscribForm">
-              <form method="post" action="#">
-                <input type="email" name="email" placeholder="Enter your email" />
-                <button type="submit">Submit Now</button>
-              </form>
-            </div>
-          </aside>
-          <aside class="widget footer_social">
-            <h3 class="widget_title">Get More Here<span>.</span></h3>
-            <div class="socials">
-              <a href="#"><i class="fab fa-facebook-f"></i></a><a href="#"><i class="fab fa-twitter"></i>
-              </a><a href="#"><i class="fab fa-behance"></i></a><a href="#"><i class="fab fa-youtube"></i>
-              </a><a href="#"><i class="fab fa-linkedin"></i></a>
-            </div>
-          </aside>
-        </div>
-      </div>
-    </div>
-  </footer>
-  <section class="copyright_section">
-    <div class="container">
-      <div class="row">
-        <div class="col-xl-12">
-          <div class="siteinfo">
-            Copyright By &COPY;<a href="#">ThemeWar</a> - 2019
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
+	
+	 <?php include 'footer.php';?>
+
   <a href="#" id="backtotop"><i class="fal fa-angle-double-up"></i></a>
 
   <script data-cfasync="false" src="../../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>

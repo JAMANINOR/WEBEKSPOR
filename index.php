@@ -706,7 +706,7 @@
               <div class="bi_meta">
                 <span><i class="fal fa-calendar-alt"></i><a href="#">31st March 2023</a></span>
                 <span><i class="fal fa-comments"></i><a href="#">0 Comments</a></span>
-                <span><i class="fal fa-user"></i>By <a href="#">Jam'ani Nor</a></span>
+                <span><i class="fal fa-user"></i>By <a href="#">ADMIN</a></span>
               </div>
               <h3>
                 <a href="news_details_1.php">Plywood industry sees increase in demand and growth in 2023</a>

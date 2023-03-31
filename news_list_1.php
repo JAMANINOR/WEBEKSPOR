@@ -38,7 +38,7 @@
       <div class="col-xl-12 text-center">
         <h2>News</h2>
         <div class="breadcrumbs">
-          <a href="index.html">Home</a><i>|</i><span>Blog</span>
+          <a href="index.php">Home</a><i>|</i><span>Blog</span>
         </div>
       </div>
     </div>
@@ -63,7 +63,7 @@
                 </div>
                 <div class="sb_footer">
                   <span><i class="fal fa-comments"></i><a href="#"> Comments</a></span>
-                  <span><i class="fal fa-user"></i>By <a href="#">Jam'ani Nor</a></span>
+                  <span><i class="fal fa-user"></i>By <a href="#">ADMIN</a></span>
                 </div>
               </div>
             </div>
