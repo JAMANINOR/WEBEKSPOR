@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-  <meta charset="UTF-8
+  <meta charset="UTF-8">
   <title>JAN INTERNATIONAL EKSPORT</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
