@@ -104,7 +104,7 @@
                 </div>
                 <div class="sb_footer">
                                     <span><i class="fal fa-comments"></i><a href="#">0 Comments</a></span>
-                  <span><i class="fal fa-user"></i>By <a href="#">Jam'ani NOr</a></span>
+                  <span><i class="fal fa-user"></i>By <a href="#">Jam'ani Nor</a></span>
                 </div>
               </div>
             </div>
@@ -123,7 +123,7 @@
                 </div>
                 <div class="sb_footer">
                                     <span><i class="fal fa-comments"></i><a href="#">0 Comments</a></span>
-                  <span><i class="fal fa-user"></i>By <a href="#">Jam'ani NOr</a></span>
+                  <span><i class="fal fa-user"></i>By <a href="#">Jam'ani Nor</a></span>
                 </div>
               </div>
             </div>
@@ -142,7 +142,7 @@
                 </div>
                 <div class="sb_footer">
                                     <span><i class="fal fa-comments"></i><a href="#">0 Comments</a></span>
-                  <span><i class="fal fa-user"></i>By <a href="#">Jam'ani NOr</a></span>
+                  <span><i class="fal fa-user"></i>By <a href="#">Jam'ani Nor</a></span>
                 </div>
               </div>
             </div>
@@ -162,7 +162,7 @@
                       </div>
                       <div class="sb_footer">
                                         <span><i class="fal fa-comments"></i><a href="#">0 Comments</a></span>
-                  <span><i class="fal fa-user"></i>By <a href="#">Jam'ani NOr</a></span>
+                  <span><i class="fal fa-user"></i>By <a href="#">Jam'ani Nor</a></span>
                       </div>
                     </div>
                   </div>
@@ -184,7 +184,7 @@
                 </div>
                 <div class="sb_footer">
                                    <span><i class="fal fa-comments"></i><a href="#">0 Comments</a></span>
-                  <span><i class="fal fa-user"></i>By <a href="#">Jam'ani NOr</a></span>
+                  <span><i class="fal fa-user"></i>By <a href="#">Jam'ani Nor</a></span>
                 </div>
               </div>
             </div>
@@ -203,7 +203,7 @@
                 </div>
                 <div class="sb_footer">
                                    <span><i class="fal fa-comments"></i><a href="#">0 Comments</a></span>
-                  <span><i class="fal fa-user"></i>By <a href="#">Jam'ani NOr</a></span>
+                  <span><i class="fal fa-user"></i>By <a href="#">Jam'ani Nor</a></span>
                 </div>
               </div>
             </div>
@@ -225,7 +225,7 @@
                 </div>
                 <div class="sb_footer">
                                     <span><i class="fal fa-comments"></i><a href="#">0 Comments</a></span>
-                  <span><i class="fal fa-user"></i>By <a href="#">Jam'ani NOr</a></span>
+                  <span><i class="fal fa-user"></i>By <a href="#">Jam'ani Nor</a></span>
                 </div>
               </div>
             </div>
@@ -244,7 +244,7 @@
                 </div>
                 <div class="sb_footer">
                                     <span><i class="fal fa-comments"></i><a href="#">0 Comments</a></span>
-                  <span><i class="fal fa-user"></i>By <a href="#">Jam'ani NOr</a></span>
+                  <span><i class="fal fa-user"></i>By <a href="#">Jam'ani Nor</a></span>
                 </div>
               </div>
             </div>

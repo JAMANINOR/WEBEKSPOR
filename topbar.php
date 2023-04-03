@@ -57,7 +57,7 @@
               <li><a href="index.php">Home</a></li>
               <li><a href="aboutus.php">About</a></li>
               <li><a href="shop_1.php">Products</a></li>
-              <li><a href="gallery.php">Gallery</a></li>
+              <li><a href="news_list_1.php">NEWS</a></li>
               <li><a href="contact_us_1.php">Contact</a></li>
             </ul>
           </nav>
@@ -95,7 +95,7 @@
                 <li><a href="index.php">Home</a></li>
                 <li><a href="aboutus.php">About</a></li>
 			        	 <li><a href="shop_1.php">Products</a></li>
-                <li><a href="gallery.php">Gallery</a></li>
+                <li><a href="news_list_1.php">NEWS</a></li>
                 <li><a href="contact_us_1.php">Contact</a></li>
               </ul>
             </div>
