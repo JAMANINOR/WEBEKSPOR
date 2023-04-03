@@ -1,12 +1,3 @@
-  <div class="preloader text-center">
-    <div class="la-ball-scale-multiple la-2x">
-      <div></div>
-      <div></div>
-      <div></div>
-    </div>
-  </div>
-
-
 <section class="topbar">
     <div class="header-container">
       <div class="row">
@@ -57,11 +48,7 @@
               <li><a href="index.php">Home</a></li>
               <li><a href="aboutus.php">About</a></li>
               <li><a href="shop_1.php">Products</a></li>
-<<<<<<< HEAD
-              <li><a href="news_list_1.php">NEWS</a></li>
-=======
-              <li><a href="news_list.php">News</a></li>
->>>>>>> 31b1ef7a2970c3952fda7354560bab7dc1884041
+				<li><a href="news_list.php">NEWS</a></li> 
               <li><a href="contact_us_1.php">Contact</a></li>
             </ul>
           </nav>
@@ -98,13 +85,10 @@
               <ul class="dl-menu dl-menuopen">
                 <li><a href="index.php">Home</a></li>
                 <li><a href="aboutus.php">About</a></li>
-<<<<<<< HEAD
-			        	 <li><a href="shop_1.php">Products</a></li>
-                <li><a href="news_list_1.php">NEWS</a></li>
-=======
+				  <li><a href="shop_1.php">Products</a></li>
+                <li><a href="news_list.php">NEWS</a></li>
 			     <li><a href="shop_1.php">Products</a></li>
                 <li><a href="news_list.php">News</a></li>
->>>>>>> 31b1ef7a2970c3952fda7354560bab7dc1884041
                 <li><a href="contact_us_1.php">Contact</a></li>
               </ul>
             </div>
