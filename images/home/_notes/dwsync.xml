@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
+<<<<<<< HEAD
 <file name="3.jpg" server="C:/xampp/htdocs/WEBEKSPOR/" local="133241182921254854" remote="133241146920000000" Dst="2" />
 <file name="4.png" server="C:/xampp/htdocs/WEBEKSPOR/" local="133241182921294859" remote="133241146920000000" Dst="2" />
 <file name="1.jpg" server="C:/xampp/htdocs/WEBEKSPOR/" local="133246994886613614" remote="133246994880000000" Dst="2" />
 <file name="2.jpg" server="C:/xampp/htdocs/WEBEKSPOR/" local="133246994886648728" remote="133246994880000000" Dst="2" />
+=======
+<file name="3.jpg" server="C:/xampp/htdocs/WEBEKSPOR/" local="133232726598460615" remote="133232690590000000" Dst="2" />
+<file name="4.png" server="C:/xampp/htdocs/WEBEKSPOR/" local="133238705115933877" remote="133238669110000000" Dst="2" />
+<file name="3.jpg" server="ftp.woodtradehub.com" local="133232726598460615" remote="133247764200000000" Dst="2" />
+<file name="4.png" server="ftp.woodtradehub.com" local="133238705115933877" remote="133247764200000000" Dst="2" />
+<file name="1.jpg" server="ftp.woodtradehub.com" local="133245395217420411" remote="133247764200000000" Dst="2" />
+<file name="2.jpg" server="ftp.woodtradehub.com" local="133245395707738009" remote="133247764200000000" Dst="2" />
+<file name="1.jpg" server="C:/xampp/htdocs/WEBEKSPOR/" local="133245395217420411" remote="133245395210000000" Dst="2" />
+<file name="2.jpg" server="C:/xampp/htdocs/WEBEKSPOR/" local="133245395707738009" remote="133245395700000000" Dst="2" />
+>>>>>>> 31b1ef7a2970c3952fda7354560bab7dc1884041
 </dwsync>

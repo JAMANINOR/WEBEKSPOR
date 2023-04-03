@@ -4,7 +4,7 @@
         <div class="col-xl-3 col-md-6 col-lg-3 noPaddingRight">
           <aside class="widget">
             <div class="about_widget">
-              <a href="index.php"><img src="images/LOGO PERUSAHAAN 1.png" alt="" width="150" /></a>
+              <a href="index.php"><img src="images/LOGO PERUSAHAAN 1.png" alt="" width="100" /></a>
               <p>
                 At PT.jan international eksport, we believe that exporting plywood is more than just a business - it's a passion. That's why we go above and beyond to deliver quality plywood solutions to customers worldwide. 
 
