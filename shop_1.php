@@ -76,7 +76,7 @@
         <div class="col-xl-4 col-md-6 col-lg-4">
           <div class="single_product offerProduct">
             <div class="productImg">
-              <img src="images/product/1.png" alt="">
+              <img src="images/product/1.png" alt="" height="100">
             </div>
             <div class="lavel">
               <p class="seller">Best seller</p>

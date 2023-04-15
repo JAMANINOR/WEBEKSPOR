@@ -68,17 +68,16 @@
               <li data-target="#productSlide" data-slide-to="0" class="active"><img src="images/product_details/t1.jpg"
                   alt="" /></li>
               <li data-target="#productSlide" data-slide-to="1"><img src="images/product_details/t2.jpg" alt="" /></li>
-              <li data-target="#productSlide" data-slide-to="2"><img src="images/product_details/t3.jpg" alt="" /></li>
+              <li data-target="#productSlide" data-slide-to="2"><img src="images/product_details/t3.jpg"></li>
             </ol>
           </div>
         </div>
         <div class="col-lg-5 col-lg-5">
           <div class="product_decp">
-            <span class="offerDe">10% Off</span>
             <h3 class="proTitle">New Release Lithium Ion XR Business 16 Chainsaw</h3>
             <div class="details_price">
-              <del>$139.00</del>
-              <span>$39.99</span>
+              <del>-</del>
+              <span>-</span>
             </div>
             <p>
               The DCS367B 20V MAX* XR® COMPACT Reciprocating Saw is a lightweight,
@@ -88,29 +87,24 @@
             </p>
             <div class="pd_details_meta">
               <div class="row">
-                <div class="col-sm-4">
-                  <h3 class="metaTitle">Rating</h3>
-                  <p class="pd_rating text-left">
-                    <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i
-                      class="fas fa-star"></i><i class="fas fa-star-half-alt"></i>
+                <div class="col-sm-8">
+                  <h3 class="metaTitle">Size</h3>
+                  <p class="text-meta">Standart Size 1220 x 2440
                   </p>
                 </div>
-                <div class="col-sm-4">
-                  <h3 class="metaTitle">Availability</h3>
-                  <p class="text_meta">In Stock</p>
-                </div>
-                <div class="col-sm-4">
-                  <h3 class="metaTitle">SKU</h3>
-                  <p class="text_meta">DR - 055</p>
+                <div class="col-sm-3">
+                  <h3 class="metaTitle">Thickness</h3>
+                  <p class="text_meta">	3 mm<br><br>
+										5 mm<br><br>
+										9 mm<br><br>
+										12 mm<br><br>
+										15 mm<br><br>
+										18 mm<br><br>
+					</p>
                 </div>
               </div>
             </div>
             <div class="pd_details_meta clearfix pdtb30">
-              <div class="quantityd">
-                <button class="qtyBtn btnMinus"><span>-</span></button>
-                <input name="qty" value="1" title="Qty" class="input-text qty text carqty" type="text">
-                <button class="qtyBtn btnPlus">+</button>
-              </div>
               <a href="#" class="add_to_car_btn"><i class="far fa-shopping-cart"></i>Add To Cart</a>
               <a href="#" class="wishlisth_btn"><i class="fal fa-heart"></i></a>
             </div>
@@ -145,11 +139,7 @@
             </li>
             <li class="nav-item">
               <a class="nav-link" id="additionalinformation-tab" data-toggle="tab" href="#additionalinformation"
-                role="tab" aria-controls="additionalinformation" aria-selected="false">Additional Information</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" id="reviews-tab" data-toggle="tab" href="#reviews" role="tab" aria-controls="reviews"
-                aria-selected="false">Reviews(3)</a>
+                role="tab" aria-controls="additionalinformation" aria-selected="false">Spesification</a>
             </li>
           </ul>
         </div>
@@ -180,82 +170,15 @@
               aria-labelledby="additionalinformation-tab">
               <div class="adinfo">
                 <ul class="clearfix">
-                  <li><span>AMP Hour</span> 4.0 AH</li>
-                  <li><span>Bar Type</span>OREGON</li>
-                  <li><span>Power Source</span>LITHIUM ION</li>
-                  <li><span>System</span>40V MAX*</li>
+                  <li><span>Short Core & long Core</span>Albasia Wood</li>
+                  <li><span>Face & Back</span>Albasia wood</li>
+                  <li><span>Glue</span>MR or CARB Standart <br> ( P2, E1, Ect)</li>
+                  <li><span>Grade</span>BBCC & UTY BETTER</li>
                   <li><span>Bar Length</span>16 IN</li>
                   <li><span>Batteries Included</span>1</li>
                   <li><span>Product Type</span>CHAINSAW</li>
                   <li><span>Watt Hours</span>160 WH</li>
                 </ul>
-              </div>
-            </div>
-            <div class="tab-pane fade" id="reviews" role="tabpanel" aria-labelledby="reviews-tab">
-              <div class="comment_area">
-                <ol class="comment_list">
-                  <li>
-                    <div class="ndComment clearfix">
-                      <img src="images/author/2.png" alt="">
-                      <div class="ndcHead">
-                        <h5><a href="#">Rosalina Kelian</a></h5>
-                        <span>19th April 2019</span>
-                        <div class="commentRating"><i class="fas fa-star"></i><i class="fas fa-star"></i><i
-                            class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i></div>
-                      </div>
-                      <div class="ndcContent">
-                        <p>
-                          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-                          labore et
-                          dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
-                          ut aliquip
-                          ex ea commodo consequat.
-                        </p>
-                      </div>
-                    </div>
-                  </li>
-                  <li>
-                    <div class="ndComment clearfix">
-                      <img src="images/author/3.png" alt="">
-                      <div class="ndcHead">
-                        <h5><a href="#">Arista Williamson</a></h5>
-                        <span>20th May 2019</span>
-                        <div class="commentRating"><i class="fas fa-star"></i><i class="fas fa-star"></i><i
-                            class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i></div>
-                      </div>
-                      <div class="ndcContent">
-                        <p>
-                          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-                          labore et
-                          dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
-                          ut aliquip
-                          ex ea commodo consequat.
-                        </p>
-                      </div>
-                    </div>
-                  </li>
-                </ol>
-                <div class="clearfix"></div>
-                <div class="commentFormArea">
-                  <h3>Add a Review</h3>
-                  <div class="commentForm">
-                    <form method="post" action="#">
-                      <div class="cfItem">
-                        <textarea name="com_text" placeholder="Type your comment..."></textarea>
-                        <i class="fal fa-pencil-alt"></i>
-                      </div>
-                      <div class="cfItem">
-                        <input type="text" name="com_name" placeholder="Type your name...">
-                        <i class="fal fa-user-alt"></i>
-                      </div>
-                      <div class="cfItem">
-                        <input type="email" name="com_email" placeholder="Type your email...">
-                        <i class="fal fa-envelope"></i>
-                      </div>
-                      <input type="submit" name="con_submit" value="Submit Review">
-                    </form>
-                  </div>
-                </div>
               </div>
             </div>
           </div>

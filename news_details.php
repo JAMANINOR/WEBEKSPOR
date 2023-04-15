@@ -60,6 +60,7 @@
                 <img src="images/blog/1.jpg" alt="" />
               </div>
             </div>
+			  
             <div class="newsDetails">
               <div class="ndMeta">
                 <span><i class="fal fa-user"></i>By <a href="#">Admin</a></span>
@@ -120,100 +121,6 @@
                     <div class="pagin pdl5 text-right">
                       <strong>Next Post</strong>
                       <h3><a href="#">Less Is More</a></h3>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="row mb49">
-                <div class="col-lg-12">
-                  <div class="ndAuthor">
-                    <div class="ndAuthorInner text-center">
-                      <img src="images/author/1.png" alt="" />
-                      <h3><a href="#">Rosalina William</a></h3>
-                      <div class="authorSocial">
-                        <a href="https://www.facebook.com/profile.php?id=100089813976111&mibextid=LQQJ4d"><i class="fab fa-facebook-f"></i></a>
-						<a href="https://instagram.com/jan_international_eksport?igshid=YmMyMTA2M2Y="><i class="fab fa-instagram"></i></a>
-						<a href="https://www.linkedin.com/company/pt-jan-international-eksport/"><i class="fab fa-linkedin"></i></a>
-						<a href="https://youtube.com/@janinternationaleksport"><i class="fab fa-youtube"></i></a>
-                      </div>
-                      <p>
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-                        labore et dolore magna
-                        aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-                        commodo.
-                      </p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="row">
-                <div class="col-xl-12">
-                  <div class="comment_area">
-                    <h3>Comments</h3>
-                    <ol class="comment_list">
-                      <li>
-                        <div class="ndComment clearfix">
-                          <img src="images/author/2.png" alt="" />
-                          <div class="ndcHead">
-                            <h5><a href="#">Rosalina Kelian</a></h5>
-                            <span>19th April 2019</span>
-                            <a class="replys" href="#">Reply</a>
-                          </div>
-                          <div class="ndcContent">
-                            <p>
-                              Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt
-                              ut labore et
-                              dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-                              nisi ut aliquip
-                              ex ea commodo consequat.
-                            </p>
-                          </div>
-                        </div>
-                      </li>
-                      <li>
-                        <div class="ndComment clearfix">
-                          <img src="images/author/3.png" alt="" />
-                          <div class="ndcHead">
-                            <h5><a href="#">Arista Williamson</a></h5>
-                            <span>20th May 2019</span>
-                            <a class="replys" href="#">Reply</a>
-                          </div>
-                          <div class="ndcContent">
-                            <p>
-                              Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt
-                              ut labore et
-                              dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-                              nisi ut aliquip
-                              ex ea commodo consequat.
-                            </p>
-                          </div>
-                        </div>
-                      </li>
-                    </ol>
-                    <div class="clearfix"></div>
-                    <div class="commentFormArea">
-                      <h3>Post Comment</h3>
-                      <div class="commentForm">
-                        <form method="post" action="#">
-                          <div class="cfItem">
-                            <textarea name="com_text" placeholder="Type your comment..."></textarea>
-                            <i class="fal fa-pencil-alt"></i>
-                          </div>
-                          <div class="cfItem">
-                            <input type="text" name="com_name" placeholder="Type your name..." />
-                            <i class="fal fa-user-alt"></i>
-                          </div>
-                          <div class="cfItem">
-                            <input type="email" name="com_email" placeholder="Type your email..." />
-                            <i class="fal fa-envelope"></i>
-                          </div>
-                          <div class="cfItem">
-                            <input type="url" name="com_url" placeholder="Type your website..." />
-                            <i class="fal fa-globe"></i>
-                          </div>
-                          <input type="submit" name="con_submit" value="Post Comment">
-                        </form>
-                      </div>
                     </div>
                   </div>
                 </div>
